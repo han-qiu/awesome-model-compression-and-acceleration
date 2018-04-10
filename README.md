@@ -77,7 +77,7 @@
 - [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/pdf/1608.04493.pdf)
 - [ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA](https://arxiv.org/pdf/1612.00694.pdf)
 - [Faster CNNs with Direct Sparse Convolutions and Guided Pruning](https://arxiv.org/pdf/1608.01409.pdf)
-
+- [Incremental Network Quantization: Towards Lossless CNNs with Low-precision](https://arxiv.org/pdf/1702.03044v2.pdf)
 #### Low Rank Approximation
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 - [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/pdf/1511.06530.pdf)
